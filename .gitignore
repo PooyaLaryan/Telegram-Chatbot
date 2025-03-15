@@ -22,7 +22,7 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
-.installed.cfg
+.installed.cfghttps://github.com/PooyaLaryan/Telegram-Chatbot.githttps://github.com/PooyaLaryan/Telegram-Chatbot.git
 *.egg
 MANIFEST
 
@@ -128,7 +128,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
